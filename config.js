@@ -1,88 +1,68 @@
-const config = {
+{
   "property": {
-    "streetAddress": "142 Valley Glen Heights NW",
-    "city": "Calgary",
-    "cityStateZip": "Calgary, AB T3B 5S8",
-    "heroSubtitle": "Amazing back yard, expansive 44x146-foot lot (7,588 sq ft) backing onto a tranquil nature reserve and the renowned Bow River Pathway. Register to receive the complete property Home &amp; Neighbourhood Info Package, virtual tour, floor plans, and comparables.",
-    "backgroundImageUrl": "https://cdn.realtor.ca/listing/TS638829328681570000/reb9/highres/1/A2219911_1.jpg"
+    "streetAddress": "2450 Brayford Cres",
+    "city": "London",
+    "cityStateZip": "London, ON N6K0H7",
+    "heroSubtitle": "Completely Turn Key, High End Finishes, Just Bring Furniture. Register to receive the property compendium, virtual tour, and comparables.",
+    "backgroundImageUrl": "https://youriguide.com/_nuxt/img/main-hero-pattern.167b1f2.svg"
   },
   "realtor": {
-    "fullName": "Amy Caughlin",
-    "title": "REALTOR®",
-    "phone": "15874391618",
-    "email": "amy@caughlinrealestate.ca",
-    "bio": "A former risk manager turned Realtor, proptech co-founder, podcast host, and passionate community advocate. I help busy professionals and families find homes that truly fit their lives, while working behind the scenes to make real estate better for everyone involved. With a background in risk management, I bring a strategic lens to every transaction, ensuring my clients make informed, confident decisions. I’m also the co-founder of Jazzberry, a platform designed by realtors, for realtors. A proud Maritimer, I lead with authenticity, hospitality, and heart. Whether I’m running along the Bow River, adventuring in the mountains with my family, or hosting FutureRE — The Future of Real Estate, I’m always driven by curiosity, connection, and impact.",
-    "photoUrl": "https://static.showit.co/800/TUEDlhwVYAO5v1iU87fE1w/264146/headshot.jpg",
+    "fullName": "Alexandra Graham",
+    "title": "Sales Representative",
+    "phone": null,
+    "email": "contact@alexandrarealtor.ca",
+    "bio": "",
+    "photoUrl": null,
     "social": {
-      "facebook": "https://www.facebook.com/caughlinrealestate/",
-      "instagram": "https://www.instagram.com/caughlin.realestate/",
-      "website": "https://caughlinrealestate.ca/"
+      "facebook": null,
+      "instagram": null,
+      "website": null
     }
   },
   "brokerage": {
-    "name": "Greater Property Group",
-    "logoUrl": "https://static.showit.co/400/I76PcfBRdfuEObejOPwzPQ/264146/gpg-no-tagline-logo-white.png",
-    "address": "5940 Macleod Trl SW #500, Calgary, AB T2H 2G4"
+    "name": null,
+    "logoUrl": null,
+    "address": ""
   },
   "openHouse": {
-    "eventDate": "2025-05-17",
     "bundleItems": [
-      {
-        "icon": "fas fa-ruler-combined",
-        "text": "Architectural Floor Plan"
-      },
-      {
-        "icon": "fas fa-star",
-        "text": "Neighbourhood Guide"
-      },
-      {
-        "icon": "fas fa-check-circle",
-        "text": "Market Stats"
-      },
-      {
-        "icon": "fas fa-car",
-        "text": "School District Information"
-      },
-      {
-        "icon": "fas fa-key",
-        "text": "Financing Resources"
-      },
-      {
-        "icon": "fas fa-home",
-        "text": "Utility Cost Estimates"
-      },
-      {
-        "icon": "fas fa-map-location-dot",
-        "text": "Property Feature List"
-      },
-      {
-        "icon": "fas fa-image",
-        "text": "Home Inspection Tips"
-      }
+      {"icon": "fas fa-calendar-alt", "text": "Open House Date: Saturday, May 17, 2025"},
+      {"icon": "fas fa-ruler-combined", "text": "Architectural Floor Plan: https://youriguide.com/2450_brayford_crescent_london_on/doc/floorplan_imperial.pdf"},
+      {"icon": "fas fa-star", "text": "Benefit: Top Quality School Districts"},
+      {"icon": "fas fa-car", "text": "Oversized Garage (fits two large vehicles)"},
+      {"icon": "fas fa-check-circle", "text": "Only One Family Owned"},
+      {"icon": "fas fa-camera-retro", "text": "High-Resolution Photo Album and Virtual Tour: https://youriguide.com/2450_brayford_crescent_london_on/"},
+      {"icon": "fas fa-film", "text": "Cinematic Property Tour Video: https://youriguide.com/2450_brayford_crescent_london_on/"},
+      {"icon": "fas fa-map-location-dot", "text": "On-Market Comparables & Recent Neighborhood Sales: http://email.em.realmmlp.ca/c/eJwc0M2SmjAcAPCngVt38h08cNAishZBuytibxH-6AokIWAZ9uk701f41SFtAsq5DyGWTDK0Ioj4jTP9-T0KOVcCB_XtViPAAAJhCFbQgP8Ia8qlrKRClagrylSDK94oRhAQCWrV-F-hCIjkK4pxI3kdIEQCCgQJ5jE0Tk5Nr7EyXadub5Xp_S58TJMdPbr2SOyRWFn75kB1fd_Zt0p5JB4fykHtkdgczN3SP4P5Fae_n8q2x-LkkVgvNseFJW73mZkZpxvRXZO-KE15uPDvZFvmrL0Uz2yKhqt55lm-Px8d34l91ulxaHGng82JjkWq2JbTnn3MauaOwTf92sJpr7M8Fe8Ur200K36JuZh1pEtBfkIq1WCPeEhsLw8sWhb6qdcsuCgqXKJ30TxQQ3lyLzcFc0-6-dhSTK6b7ArndduSRXPjuxD6XnkMaeOmx92Zl_3vMoXTYuHHawTn_w3JvwAAAP__dwCIpQ"},
+      {"icon": "fas fa-key", "text": "Early Access Notifications for New Listings"}
     ]
   },
   "meta": {
-    "pageTitlePrefix": "🏡 Amy Caughlin Open House",
-    "navBrandLogoText": "OPEN HOUSE",
-    "privacyPolicyLink": "https://caughlinrealestate.ca/"
+    "pageTitlePrefix": "🏡 Open House 2450 Brayford Cres",
+    "navBrandLogoText": "Alexandra Graham Realty",
+    "privacyPolicyLink": null
   },
   "settings": {
     "adminWebhookUrl": "https://n8n.salesgenius.co/webhook/openhouseupdate",
     "visitorWebhookUrl": "https://n8n.salesgenius.co/webhook/openhouse",
-    "confettiColors": [
-      "#6187a7",
-      "#f0e9d6",
-      "#ffffff",
-      "#83a363",
-      "#d9ac68"
-    ]
+    "confettiColors": ["#6187a7", "#f0e9d6", "#ffffff", "#83a363", "#d9ac68"]
   },
-  "modalQuestions": [],
+  "modalQuestions": [
+    {
+      "id": "agent_status",
+      "questionText": "Are you currently exploring homes with a real estate agent?",
+      "options": [
+        { "value": "committed", "text": "Yes, I'm committed to an agent." },
+        { "value": "not_committed", "text": "No, I'm not committed to an agent." },
+        { "value": "gathering_info", "text": "Just gathering information at this stage." }
+      ]
+    }
+  ],
   "deploymentInfo": {
-    "repoName": "Open-House-957",
-    "repoUrl": "https://github.com/arslvn93/Open-House-957",
-    "tag": "Open House 142 Valley Glen Heights NW",
-    "netlifyUrl": "https://services.leadconnectorhq.com/hooks/KxSrsX5ZH2ZttFjyt9hW/webhook-trigger/723v7Nh8JC60wCn3aRmV",
-    "siteId": "dc35cadf-51e9-4ca8-843c-a084dd57add1"
+    "repoName": "Open-House-551",
+    "repoUrl": "https://github.com/arslvn93/Open-House-551",
+    "tag": "Open House 2450 Brayford Cres",
+    "netlifyUrl": "http://Open-House-551.netlify.app",
+    "netlifyId": "984999971"
   }
-};
+}
